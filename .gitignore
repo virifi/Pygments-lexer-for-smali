@@ -1,0 +1,10 @@
+test.py
+test.smali
+test2.smali
+copy_and_generate.sh
+
+Smali_Lexer.egg-info
+build
+dist
+
+*.pyc
